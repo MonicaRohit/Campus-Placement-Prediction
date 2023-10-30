@@ -12,11 +12,7 @@ Predict campus placements for students based on their educational and personal d
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
+  
 ## About the Project
 
 This Streamlit web app allows users to input various educational and personal details, and it uses a  machine learning model to predict whether a student will get placed in a campus recruitment process.
