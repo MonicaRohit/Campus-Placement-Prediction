@@ -36,18 +36,18 @@ To get a local copy up and running, follow these simple steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/MonicaRohit/Campus-Placement-Prediction.git
    ```
 
-Install Python dependencies
-```bash
-pip install -r requirements.txt
-```
+2. Install Python dependencies
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-Run the Streamlit app
-```bash
-streamlit run app.py
-```
+3. Run the Streamlit app
+   ```bash
+   streamlit run app.py
+   ```
 
 Usage
 1. Visit the Streamlit app in your web browser.
